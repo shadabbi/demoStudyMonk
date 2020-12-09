@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem;
+
+  main {
+    margin-top: 3rem;
+  }
+
+  .quetionsContainer {
+    padding: 2rem;
+  }
+}
